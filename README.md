@@ -240,3 +240,6 @@ This repository serves as the official landing page for Soldat. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Soldat today!**
+
+---
+**Last updated:** 2026-09-09 14:16:28 UTC
