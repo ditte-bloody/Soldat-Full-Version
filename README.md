@@ -242,4 +242,4 @@ This repository serves as the official landing page for Soldat. The software is 
 **Get the most recent version of Soldat today!**
 
 ---
-**Last updated:** 2026-10-16 20:44:27 UTC
+**Last updated:** 2026-10-16 23:21:34 UTC
